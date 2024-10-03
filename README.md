@@ -22,3 +22,10 @@ the whole company will be distributed in Monterrey, Mexico City, Puebla, Guadala
 ## Branches Logical Design
 
 ![Captura de Pantalla 2024-10-03 a la(s) 12 15 51 p m](https://github.com/user-attachments/assets/64b0085a-5184-423f-8b5c-e7e3a6add6a3)
+
+## Subnet Breakdown
+
+<ul>Monterrey Branch</ul>
+![Captura de Pantalla 2024-10-03 a la(s) 2 04 05 p m](https://github.com/user-attachments/assets/2d3710b7-421a-428e-b61c-0d36460effa8)
+
+
