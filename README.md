@@ -41,7 +41,13 @@ the whole company will be distributed in Monterrey, Mexico City, Puebla, Guadala
 
 ![Captura de Pantalla 2024-10-03 a la(s) 2 15 06 p m](https://github.com/user-attachments/assets/e8249e72-2b03-44da-b9c1-67421022adce)
 
+ - Guadalajara Branch
 
+![Captura de Pantalla 2024-10-03 a la(s) 7 07 14 p m](https://github.com/user-attachments/assets/e09d36ad-480b-4007-b9ea-69a34f84e3c0)
+
+- Ciudad Juarez Branch
+
+![Captura de Pantalla 2024-10-03 a la(s) 7 07 57 p m](https://github.com/user-attachments/assets/4e4c171d-ea23-4d76-a964-ac0ba2f728bb)
 
 
 
