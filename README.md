@@ -25,7 +25,27 @@ the whole company will be distributed in Monterrey, Mexico City, Puebla, Guadala
 
 ## Subnet Breakdown
 
-<ul>Monterrey Branch</ul>
-![Captura de Pantalla 2024-10-03 a la(s) 2 04 05 p m](https://github.com/user-attachments/assets/2d3710b7-421a-428e-b61c-0d36460effa8)
+ - Monterrey Corporate
+
+![Captura de Pantalla 2024-10-03 a la(s) 2 05 12 p m](https://github.com/user-attachments/assets/a11a22fb-dc3a-4aa5-a398-76cab8d18200)
+
+ - Center of Distribution Puebla
+
+![Captura de Pantalla 2024-10-03 a la(s) 2 06 24 p m](https://github.com/user-attachments/assets/e666280c-32fe-4e6d-ab70-724268870075)
+
+ - Monterrey Branch
+
+![Captura de Pantalla 2024-10-03 a la(s) 2 14 11 p m](https://github.com/user-attachments/assets/7d21e97c-736e-4bc3-b733-55a0e94003b4)
+
+ - Mexico City Branch
+
+![Captura de Pantalla 2024-10-03 a la(s) 2 15 06 p m](https://github.com/user-attachments/assets/e8249e72-2b03-44da-b9c1-67421022adce)
+
+
+
+
+
+
+
 
 
