@@ -4,7 +4,7 @@ Our goal is to develop a network for a coffee company that securely and efficien
 
 Today, we are looking to expand to several points of sale. The main corporate building is located in Monterrey, with a total of 70 employees and a branch office with 10 employees. The corporate office acts as a hub for servers and services, and there are multiple offices, points of sale and distribution centers in different parts of the country. Branch offices are located in 3 other cities and have an average of 10 employees in each. In another city, our distribution center is located, with 20 employees working there. This adds up to a total of 130 employees in 5 different locations.
 
-the whole company will be distributed in Monterrey, Mexico City, Puebla, Guadalajara, and Ciudad Juárez
+The whole company will be distributed in Monterrey, Mexico City, Puebla, Guadalajara, and Ciudad Juárez
 
 ## Economic Proposal
 
